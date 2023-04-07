@@ -1,0 +1,15 @@
+body {
+    background-color: #76c8ff;
+    margin: 0;
+  }
+
+  header {
+    background-color: white;
+    text-align: right;
+    padding: .75rem 0;
+    border-bottom: solid 1px dimgrey;
+    box-shadow:
+    0 4px 8px 0 rgba(0, 0, 0, 0.2),
+    0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+
